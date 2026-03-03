@@ -8,8 +8,6 @@
 - **Original Data Folder** — Contains `base.dta`, original data files, and the following:
   - `base.dta` — Fully processed and cleaned data file used to generate analysis data.
   - **Original data files** — Downloaded CSV files used in the analysis.
-  - **Metadata Subfolder**
-    - Metadata Guide
 
 - **Command Files Folder**
   - `processing.do` — Transforms the original data into the base data.
@@ -20,7 +18,7 @@
   - `analysis.dta` — Data used to run the regression.
 
 - **Documents Folder**
-  - Final Empirical Research Paper
+  - DV Research Paper
   - Read Me File
 
 ---
