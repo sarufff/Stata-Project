@@ -1,6 +1,3 @@
-*construction.do - Group 24; date created: 4/30
-*set working directory; may need to be changed to the path; may need to change the path to match where it is on the computer that this is run on
-cd D:\Files\UVA\Spring2023\ECON3720\OriginalData
 
 *open the base.dta file
 use base.dta
@@ -22,3 +19,4 @@ asdoc describe
 
 *save as the analysis.dta file
 save analysis.dta, replace
+
