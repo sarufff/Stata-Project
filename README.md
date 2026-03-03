@@ -18,7 +18,7 @@
   - `analysis.dta` — Data used to run the regression.
 
 - **Documents Folder**
-  - DV Research Paper
+  - DV Research Paper (Showcases regression tables and final analysis
   - Read Me File
 
 ---
