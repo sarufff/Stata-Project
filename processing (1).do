@@ -1,7 +1,4 @@
-*processing.do - Group 24; date created: 4/29
 
-*set the working directory; may need to change the path to match where it is on the computer that this is run on
-cd D:\Files\UVA\Spring2023\ECON3720\OriginalData
 *import the original data file into Stata
 import delimited 2011IncomeByZipcode.csv, varnames(1)
 
@@ -267,4 +264,5 @@ merge 1:1 zipcode year using LAPD_Calls_for_Service_base.dta
 drop _merge
 
 *save as the base.dta file
+
 save base.dta, replace
